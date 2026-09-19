@@ -36,3 +36,5 @@ This project is based on MiniDigger's [MiniMessageViewer](https://github.com/Min
 The font used can be found [here](https://fonts2u.com/minecraft-regular.font).
 
 [Discord]: https://discord.gg/MMfhJ8F
+
+<img src="https://papermc.io/assets/misc/namespace-oss-badge.svg?project=adventure-webui" alt="CI powered by namespace badge" />
