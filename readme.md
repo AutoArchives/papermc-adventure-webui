@@ -37,4 +37,4 @@ The font used can be found [here](https://fonts2u.com/minecraft-regular.font).
 
 [Discord]: https://discord.gg/MMfhJ8F
 
-<img src="https://papermc.io/assets/misc/namespace-oss-badge.svg?project=adventure-webui" alt="CI powered by namespace badge" />
+[![CI powered by namespace badge](https://papermc.io/assets/misc/namespace-oss-badge.svg?project=adventure-webui)](https://namespace.so/github-actions/?utm_source=oss&utm_campaign=papermc)
